@@ -1,5 +1,5 @@
 ---
-title: "영재들"
+title: "영재들을위한"
 layout: splash
 header:
   overlay_color: "#fff"
