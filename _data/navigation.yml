@@ -4,9 +4,9 @@ main:
     url: /
   - title: "강사소개"
     url: /tutor/
-  - title: "Publications"
+  - title: "강좌소개"
     url: /publications/
-  - title: "Contact"
+  - title: "수강신청"
     url: /contact/
   # - title: "AISL Code"
   #   url: https://0formath.github.io/

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Publications
+title: 강좌소개
 permalink: /publications/
 ---
 

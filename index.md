@@ -1,13 +1,13 @@
 ---
-title: "영수학"
+title: ""
 layout: splash
 header:
   overlay_color: "#fff"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/sitemainblue.jpg
+  overlay_image: /assets/images/sitemain2.jpg
   actions:
-    - label: "Join us"
-      url: "/vacancies/"
+    - label: "수강신청"
+      url: "/contact/"
 excerpt: " "
 intro:
   - excerpt: ""
