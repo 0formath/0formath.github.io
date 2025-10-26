@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_color: "#fff"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/gemini1.jpg
+  overlay_image: /assets/images/gemini2.jpg
   actions:
     - label: "수강신청"
       url: "/contact/"
