@@ -1,10 +1,10 @@
 ---
-title: "영재들을위한"
+title: "영수학"
 layout: splash
 header:
   overlay_color: "#fff"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/sitemain2.jpg
+  overlay_image: /assets/images/gemini1.jpg
   actions:
     - label: "수강신청"
       url: "/contact/"
@@ -15,7 +15,7 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-## 영수학
+## 소개
 
 영재들을 위한 수학
 
