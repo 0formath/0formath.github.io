@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_color: "#fff"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/deepmind1.jpg
+  overlay_image: /assets/images/sitemainblue.jpg
   actions:
     - label: "Join us"
       url: "/vacancies/"
@@ -22,3 +22,5 @@ intro:
 ### Links
 
 ![0math-logo](/assets/images/0math-logo.jpg)
+
+![sitemainblue](/assets/images/sitemainblue.jpg)
