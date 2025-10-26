@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "People"
-    url: /people/
+  - title: "강사소개"
+    url: /tutor/
   - title: "Publications"
     url: /publications/
   - title: "Contact"

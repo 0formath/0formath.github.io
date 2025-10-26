@@ -1,7 +1,7 @@
 ---
 layout: single
-title: People
-permalink: /people/
+title: 강사소개
+permalink: /tutor/
 ---
 
 
