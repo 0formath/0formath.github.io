@@ -16,7 +16,7 @@ intro:
 {% include feature_row id="intro" type="center" %}
 
 ## 소개
-
+![sitemainblue](/assets/images/sitemainblue.jpg)
 영재들을 위한 수학
 
 ### Links
